@@ -1,0 +1,28 @@
+{
+  "Produk": [
+    {
+      "id": "1686298633179",
+      "image": "blob:http://localhost:5173/9a40b8c8-fdd3-403c-92fc-dd23585ab0bf",
+      "nama": "htn",
+      "hargaBeli": "1200",
+      "hargaJual": "12",
+      "stok": "12"
+    },
+    {
+      "id": "1686302898828",
+      "image": "blob:http://localhost:5173/bd8b668d-0214-49c2-8cc8-9293bacd3e2a",
+      "nama": "Iphone",
+      "hargaBeli": "123",
+      "hargaJual": "123",
+      "stok": "123"
+    },
+    {
+      "id": "1686302954202",
+      "image": "blob:http://localhost:5173/da9310fd-ff4a-401a-9632-7a816650494f",
+      "nama": "react",
+      "hargaBeli": "123",
+      "hargaJual": "123",
+      "stok": "123"
+    }
+  ]
+}
